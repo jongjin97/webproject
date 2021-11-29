@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/write_board.jsp=UTF-8
+encoding//src/kr/ac/woosuk/computereng/models/UserDTO.java=UTF-8
+encoding//src/kr/ac/woosuk/computereng/models/dao/AttachFileDao.java=UTF-8
+encoding//src/kr/ac/woosuk/computereng/models/dao/BoardDao.java=UTF-8
+encoding//src/kr/ac/woosuk/computereng/models/dao/UserDao.java=UTF-8
+encoding/<project>=UTF-8
