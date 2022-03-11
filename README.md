@@ -1,14 +1,14 @@
 # webproject
 
 # Main
-![main](https://user-images.githubusercontent.com/80832556/157815435-0147160f-54c2-436a-9d94-07415ca9dd10.png)
+![main](https://user-images.githubusercontent.com/80832556/157816757-ff62c17b-837a-4a31-8c3d-89083896ad54.png)
 
 # Regist
 ![main](https://user-images.githubusercontent.com/80832556/157816556-b097b0e4-087d-4e65-88ab-8e152fbd46eb.png)
 
 # Login
 ![main](https://user-images.githubusercontent.com/80832556/157815773-d5086e7e-902a-4377-b4bf-28a51468396a.png)
-![main](https://user-images.githubusercontent.com/80832556/157815866-6e9f29ed-df09-45c7-a0a7-e82f35eb98ab.png)
+![main](https://user-images.githubusercontent.com/80832556/157816823-13e4bc22-7a34-47de-a9a9-2bcc4654fefa.png)
 
 # Board
 ![main](https://user-images.githubusercontent.com/80832556/157815985-a9fa80a9-55b9-4daf-99f7-7b8dbfdddbd1.png)
