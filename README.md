@@ -3,6 +3,9 @@
 # Main
 ![main](https://user-images.githubusercontent.com/80832556/157815435-0147160f-54c2-436a-9d94-07415ca9dd10.png)
 
+# Regist
+![main](https://user-images.githubusercontent.com/80832556/157816556-b097b0e4-087d-4e65-88ab-8e152fbd46eb.png)
+
 # Login
 ![main](https://user-images.githubusercontent.com/80832556/157815773-d5086e7e-902a-4377-b4bf-28a51468396a.png)
 ![main](https://user-images.githubusercontent.com/80832556/157815866-6e9f29ed-df09-45c7-a0a7-e82f35eb98ab.png)
@@ -12,4 +15,5 @@
 
 # Board Write
 ![main](https://user-images.githubusercontent.com/80832556/157816066-88211b68-3fb7-42aa-83d7-874df26bc839.png)
+![main](https://user-images.githubusercontent.com/80832556/157816459-f4565422-b6b9-4d3a-9bc3-de12e811d4e4.png)
 
